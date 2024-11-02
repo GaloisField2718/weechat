@@ -1,4 +1,4 @@
-# Commands Weechat/IRC
+# Commands [Weechat](weechat.org)/IRC
 
 **My config**: MacOS 14.5, Weechat 4.4.3, Terminal App. 
 
