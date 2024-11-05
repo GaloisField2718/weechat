@@ -10,6 +10,19 @@ Open with: `weechat`.
 
 [WeeChat quick start guide](https://weechat.org/files/doc/weechat/stable/weechat_quickstart.en.html)
 
+## Set libera server
+`/set irc.server.libera.addresses "irc.libera.chat/6697"`
+`/set irc.server.libera.ssl on`
+`/save`
+
+Try connect with: `/connect libera`
+
+### List options
+
+`/fset`
+`/server listfull`
+
+
 ## Check & modify common params
 
 `/server listfull`
