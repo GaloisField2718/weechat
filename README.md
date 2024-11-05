@@ -8,6 +8,8 @@ Most common package manager integrates `weechat`.
 
 Open with: `weechat`.
 
+[WeeChat quick start guide](https://weechat.org/files/doc/weechat/stable/weechat_quickstart.en.html)
+
 ## Check & modify common params
 
 `/server listfull`
